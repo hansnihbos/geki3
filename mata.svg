@@ -11,22 +11,18 @@
               .pupil {
                 fill: #e9e7f3;
                 animation: gerakX 5s infinite alternate ease-in-out;
-                animation-delay: 2s;
               }
               .pupilKanan {
                 fill: #e9e7f3;
                 animation: gerakXKanan 5s infinite alternate ease-in-out;
-                animation-delay: 2s;
               }
               .cls-2 {
                 fill: url(#radial-gradient);
                 animation: gerakXKanan 5s infinite alternate ease-in-out;
-                animation-delay: 2s;
               }
               .cls-3 {
                 fill: url(#radial-gradient-2);
                 animation: gerakX 5s infinite alternate ease-in-out;
-                animation-delay: 2s;
               }
               @keyframes gerakX {
                 0% {
